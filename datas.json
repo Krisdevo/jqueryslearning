@@ -1,0 +1,29 @@
+{
+    "listName": "Liste des personnages",
+    "category": "Personnages",
+    "formed": 2025,
+    "active": true,
+    "personnages": [{
+
+        "name": "Yves",
+        "vie": 50,
+        "magie":  10,
+        "stats": [
+
+            {
+                "title": "Force",
+                "subtitle": "12"
+                
+            },
+
+            {
+                "title": "Endurance",
+                "subtitle": "10"
+                
+            }
+        ]
+    }
+    ]
+
+    
+}
